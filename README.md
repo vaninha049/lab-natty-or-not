@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizando IAs Generativas como por exemplo Leonardo IA e chat GPP
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Conteúdo criado baseado em curso visto de exemplo na net
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado desse projeto eu pude alem da teoria sobre IA e claude 3 eu busquei como utilizar ferramentas com Leonardo IA que ficou de exemplo aqui e pude enriquecer ainda mais meu portfolio e aprendizado.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
